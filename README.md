@@ -11,7 +11,7 @@ $ rosdep install -i --from-path src --rosdistro humble -y
 Build your new package
 
 ```
-$ colcon build --packages-select RL_Homework2
+$ colcon build 
 ```
 Source the setup files
 
